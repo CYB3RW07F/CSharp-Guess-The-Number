@@ -1,0 +1,14 @@
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\bin\Debug\net7.0\CSharp-Guess-The-Number.exe
+C:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\bin\Debug\net7.0\CSharp-Guess-The-Number.deps.json
+C:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\bin\Debug\net7.0\CSharp-Guess-The-Number.runtimeconfig.json
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\bin\Debug\net7.0\CSharp-Guess-The-Number.dll
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\bin\Debug\net7.0\CSharp-Guess-The-Number.pdb
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.AssemblyInfoInputs.cache
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.AssemblyInfo.cs
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.csproj.CoreCompileInputs.cache
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.dll
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\refint\CSharp-Guess-The-Number.dll
+c:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.pdb
+C:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\CSharp-Guess-The-Number.genruntimeconfig.cache
+C:\Users\MarcB\Documents\Github Projects\CSharp-Guess-The-Number\obj\Debug\net7.0\ref\CSharp-Guess-The-Number.dll
